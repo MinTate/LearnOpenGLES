@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnOpenGLES</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_simple">SimpleActivity</string>
+</resources>
